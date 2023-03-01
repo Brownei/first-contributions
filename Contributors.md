@@ -4988,6 +4988,7 @@ Katie Moar
 Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
 - [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
+- [Brownson Esiti](https://github.com/Brownei)
 - [Danny Gomes](https://github.com/dannygomes)
 - [Ibuki Aizawa](https://github.com/iaizawa0623)
 - [Gaurav Mathur](https://github.com/GMATHUR90)
